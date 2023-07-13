@@ -1,3 +1,1 @@
-# creativescroll
-
-in order to see the code - go to the development branch
+- DEMO LINK - (https://nazar-medushevskyi344.netlify.app/)
